@@ -1,10 +1,6 @@
 
 public class OwnSplitStr {
 
-
- 
- 
-
 	public static void main(String[] args) {
 	
 		String data = "Welcome to Hyd Good Morning ";
